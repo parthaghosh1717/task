@@ -11,7 +11,7 @@ Admin Dashboard
         <div class="col-lg-12 col-md-12 float-right">
             <div class="card">
                  <div style="padding: 30px;">
-                     <h3>Welcome To Admin Dashboard</h3>
+                     <h3>Welcome To Admin Dashboard partha</h3>
                  </div>
             </div>
         </div>
